@@ -1,3 +1,7 @@
 Trainer making changes
 JUNK ON
+<<<<<<< HEAD
 This is an additional change
+=======
+putsomething at the bottom of the file
+>>>>>>> c1d789d2dbc4400566769bba60adca42e7c08812
