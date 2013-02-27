@@ -1,5 +1,5 @@
 Trainer making changes
-JUNK ON
+JUNK ON - Blue
 <<<<<<< HEAD
 This is an additional change
 =======
